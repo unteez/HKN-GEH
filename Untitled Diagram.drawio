@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T10:30:40.517Z" agent="5.0 (Windows)" etag="cOwI459VL7Z6_q8Jbdq7" version="15.0.4" type="github"><diagram id="Gzh1vEXdIfz71GAEQ342" name="Page-1">1ZVbT4MwFIB/TR9NaMvm9jqc82EaExZ97mhHGyklpQjs1wtSxho2L4nTmPBQvnN6+84JABzIaqVJxu8VZQlAHq0AvgEIQR8h0D4erTtyDWEHYi2oTRpAKPbMQs/SQlCWO4lGqcSIzIWRSlMWGYcRrVXppu1U4u6akZiNQBiRZEyfBTW8o7OJN/A7JmLe7ww9G5GkT7Yg54Sq8gjhJcCBVsp0I1kFLGnl9V66ebdnooeDaZaar0yI4FMerB+QfMn2/mb9yOeFvLKrvJKksBcOi60UeS5Uao9t6t6FVkVKWbscBHhRcmFYmJGojZZN9RvGjUxsmOjIVrNxhRd2H6YNq85eAB60NP3ElGRG102KndCLrN3XcigL7Bk/KsnUMmI7IT4sPMhqBtbXN9yhkbtNnbGxNa7ktsg/N/YDiqCrCMITjvwTjmaXcuSPHK3EznzQWd6veELYFTX9616a/A9PcH45Uc3r8DF8jx39UvDyDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-01T11:19:51.700Z" agent="5.0 (Windows)" etag="aF3gnoP1oMs1JXYUiU08" version="15.0.4" type="github">
+  <diagram id="Gzh1vEXdIfz71GAEQ342" name="Page-1">
+    <mxGraphModel dx="2031" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1VsCLN2mkpz4TLPh9um-1" value="Submission" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c1VsCLN2mkpz4TLPh9um-2" value="Type" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c1VsCLN2mkpz4TLPh9um-4" value="GIFTS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c1VsCLN2mkpz4TLPh9um-5" value="BUSINESS MEALS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-1" value="ENTERTAINMENT AND HOSPITALITY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-2" value="ENTERTAINMENT AND HOSPITALITY AT&lt;br&gt;OUR SPONSORED EVENTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-3" value="ENTERTAINMENT AND HOSPITALITY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-4" value="Type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-5" value="Value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-6" value="More than once per year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjUhAZu07TOuGVpuegit-8" value="To/from whom?" style="text;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
