@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T14:44:41.579Z" agent="5.0 (Windows)" etag="MEEOBFEAtPtprop1vMYt" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T15:04:23.831Z" agent="5.0 (Windows)" etag="2cLxnA13JfSRLt4YRpxR" version="15.0.4" type="github">
   <diagram id="Gzh1vEXdIfz71GAEQ342" name="Page-1">
-    <mxGraphModel dx="6399" dy="3685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4367" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
         <mxCell id="UjUhAZu07TOuGVpuegit-69" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1505" y="-973.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UjUhAZu07TOuGVpuegit-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UjUhAZu07TOuGVpuegit-71" target="9Nk0hv0ekXMGAtVD4ZqK-10" edge="1">
+        <mxCell id="UjUhAZu07TOuGVpuegit-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="eKk7WqRYk41ZVbVH4nbu-3" target="9Nk0hv0ekXMGAtVD4ZqK-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1205" y="-904.5" as="targetPoint" />
           </mxGeometry>
@@ -288,7 +288,7 @@
         <mxCell id="9Nk0hv0ekXMGAtVD4ZqK-14" value="Coordinator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1078" y="-1100.25" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="9Nk0hv0ekXMGAtVD4ZqK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="c1VsCLN2mkpz4TLPh9um-5" target="9Nk0hv0ekXMGAtVD4ZqK-14" edge="1">
+        <mxCell id="9Nk0hv0ekXMGAtVD4ZqK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="c1VsCLN2mkpz4TLPh9um-5" target="eKk7WqRYk41ZVbVH4nbu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-698" y="-950.75" as="targetPoint" />
             <mxPoint x="-1787.9999999999995" y="-1203" as="sourcePoint" />
@@ -296,6 +296,21 @@
         </mxCell>
         <mxCell id="9Nk0hv0ekXMGAtVD4ZqK-23" value="Accepting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=53;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-1610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eKk7WqRYk41ZVbVH4nbu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=53;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="eKk7WqRYk41ZVbVH4nbu-1" target="9Nk0hv0ekXMGAtVD4ZqK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKk7WqRYk41ZVbVH4nbu-1" value="Highest ranking employee present" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1435" y="-1100.25" width="208" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="eKk7WqRYk41ZVbVH4nbu-3" value="Highest ranking employee present" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1435" y="-920" width="208" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="eKk7WqRYk41ZVbVH4nbu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="UjUhAZu07TOuGVpuegit-71" target="eKk7WqRYk41ZVbVH4nbu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1075" y="-904.5" as="targetPoint" />
+            <mxPoint x="-1465" y="-904.75" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
